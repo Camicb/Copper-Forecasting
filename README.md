@@ -7,6 +7,6 @@ For Part 2, the objective is forecast the prices considering more variables, lik
 
 Datasets can be found [here](https://drive.google.com/drive/folders/1wOgmeZFQf45oADTYtOP6iC8aNTEyDvuX?usp=sharing).
 
-*Skills: Data extraction, Data cleaning, Data Visualization, Time-series, Regression, Python, Facebook Prophet, ARIMA models, scikit-learn, Tensorflow 2.*
+***Skills***: *Data extraction, Data cleaning, Data Visualization, Time-series, Regression, Python, Facebook Prophet, ARIMA models, scikit-learn, Tensorflow 2.*
 
 I also made an analysis of the working situation for metallurgical careers in [Tableau Public.](https://public.tableau.com/profile/camia8005#!/vizhome/MetalurgiaChile/Story1?publish=yes)
